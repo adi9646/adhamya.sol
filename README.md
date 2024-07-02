@@ -4,6 +4,25 @@
 
 This project is a Ethereum baesd smart contract coded in soldity for a any Token of your choice (In this case we have taken "Tron"TRX) . It includes basic functionalities for minting and burning tokens, allowing the total supply and individual balances to be managed.
 
+# Requirements
+
+## Public Variables:
+
+tokenname: Stores the name of the token.
+
+tokenabbrev: Stores the abbreviation of the token.
+
+totalsupply: Stores the total supply of the token.
+
+## Mappings:
+
+balances: Maps addresses to their corresponding token balances.
+
+## Functions:
+mint(address _address, uint _value): Increases the total supply and the balance of the specified address by the given value.
+
+burn(address _address, uint _value): Decreases the total supply and the balance of the specified address by the given value, ensuring the address has enough tokens to burn.
+
 # Getting Started
 
 ## Installing
