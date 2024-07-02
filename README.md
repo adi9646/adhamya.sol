@@ -2,7 +2,7 @@
 
 # Description
 
-This project is a Ethereum baesd smart contract coded in soldity for a any Token of your choice (In this case we have taken "Tron"TRX) . It includes basic functionalities for minting and burning tokens, allowing the total supply and individual balances to be managed.
+This project is a Ethereum baesd smart contract coded in soldity for a any Token of your choice (In this case we have taken "adi") . It includes basic functionalities for minting and burning tokens, allowing the total supply and individual balances to be managed.
 
 # Requirements
 
