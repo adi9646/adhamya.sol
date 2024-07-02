@@ -1,4 +1,4 @@
-# ETH BEG FINALPROJECT
+# ETH BEG FINAL PROJECT
 
 # Description
 
