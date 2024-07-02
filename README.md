@@ -1,17 +1,17 @@
-ETHBEGFINALPROJECT
+# ETHBEGFINALPROJECT
 
-Mint the Tokens
+## Mint the Tokens
 
-Burn the Tokens
+## Burn the Tokens
 
-Description
+# Description
 
 This project is a Ethereum baesd smart contract coded in soldity for a any Token of your choice (In this case we have taken "Tron"TRX) . It includes basic functionalities for minting and burning tokens, allowing the total supply and individual balances to be managed.
 
 
-Getting Started
+## Getting Started
 
-Installing
+ Installing
 
 Clone the repository from Github or just copy and paste the code in any online compiler
 
@@ -29,26 +29,26 @@ Click Deploy & run transactions in the left side panel and Deploy the program
 
 Use the provided functions to mint or burn tokens.
 
-// To mint tokens
+## // To mint tokens
 
 mintFunc(address addr, uint supplyValue)
 
 
-// To burn tokens
+## // To burn tokens
 
 burnFunc(address addr, uint supplyValue)
 
 
-check Total Supply after minting or burning the tokens
+## check Total Supply after minting or burning the tokens
 
-Help
+# Help
 
 For any issues, you can refer to the Remix documentation or common Ethereum development resources.
 
 
-Authors
+# Authors
 
-Contributors names and contact info
+## Contributors names and contact info
 
 
 Adhamya sanotch
@@ -56,7 +56,7 @@ Adhamya sanotch
 [@22BCS15122] (adhi9646@gmail.com)
 
 
-License
+# License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
